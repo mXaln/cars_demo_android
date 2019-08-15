@@ -1,4 +1,4 @@
-package org.wycliffeassociates.trconverter;
+package org.wycliffeassociates.position;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
